@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dagdeag, a simple coder that has begun coding (kinda) seriously in something right now.
 - 👀 I’m interested in simple github projects that I can join
-- 🌱 I’m currently learning Objective-C, nah just kidding I'm not dumb.
-- 💞️ I’m looking to collaborate on a versy simple project.
+- 🌱 I’m currently learning Objective-C, nah just kidding I'm not trying to get headaches.
+- 💞️ I’m looking to collaborate on a very simple project.
 - 📫 How to reach me: Try discord, dagdeag#3744.
 
 <!---
